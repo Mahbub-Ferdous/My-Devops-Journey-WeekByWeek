@@ -32,13 +32,17 @@ The `TCP (Transmission Control Protocol)` handshake establishes a reliable conne
 ## Process
 
 ```SYN: The client sends a SYN (synchronize) packet to the server to initiate a connection.```
+
 ```SYN-ACK: The server responds with a SYN-ACK (synchronize-acknowledge) packet to acknowledge the client's request and to indicate that it is ready to establish a connection.```
+
 ```ACK: The client responds with an ACK (acknowledge) packet to confirm the connection.```
+
 ```Result: After the three-way handshake (SYN, SYN-ACK, ACK), a connection is established, and data transfer can begin.```
 
 ## Details
 
 ```Initial SYN: The client's initial SYN packet includes a sequence number used to synchronize the sequence numbers between the client and server.```
+
 ```Connection Setup: This three-way handshake ensures that both client and server agree on the starting sequence numbers and are ready to communicate.```
 
 ## Sequence of Events Before OSI Model
@@ -46,15 +50,20 @@ The `TCP (Transmission Control Protocol)` handshake establishes a reliable conne
 
 ## DNS Resolution
 
-`1. The user types a URL into the browser.`
-`2. The browser checks the local DNS cache.`
-`3. If not found locally, the request is sent to the DNS server (usually provided by the ISP).`
-`4. The DNS server resolves the domain name to an IP address.`
-`5. The resolved IP address is returned to the browser.`
+1. The user types a URL into the browser.
+
+2. The browser checks the local DNS cache.
+
+3. If not found locally, the request is sent to the DNS server (usually provided by the ISP).
+
+4. The DNS server resolves the domain name to an IP address.
+
+5. The resolved IP address is returned to the browser.
 
 ## TCP Handshake
 
 ```The browser initiates a TCP connection to the resolved IP address (typically to port 80 for HTTP or port 443 for HTTPS.```
+
 ```The three-way handshake (SYN, SYN-ACK, ACK) is completed.```
 
 ## OSI Model: Sequence of Events

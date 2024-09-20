@@ -14,6 +14,7 @@ IPv4 (Internet Protocol version 4) addresses consist of `4` bytes, with each byt
 Example of an IPv4 Address:
 
 ```Decimal format: 172.32.16.1```
+
 ```Binary format: 10101100.00100000.00010000.00000001```
 
 
