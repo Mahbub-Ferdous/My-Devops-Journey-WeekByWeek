@@ -42,4 +42,17 @@
     7. Private Subnet
 ```
 
+### 2nd Week: Core concept of Operating System (Linux) and all command:-
+
+```
+1. Day-1: Linux Basic CLI(Command line interface)
+2. Day-2: Linux Text manipulation
+3. Day-3: Linux user management and permissions
+4. Day-4: Server management, download, checkOS and services
+5. Day-5: Processes Utilization, Devices, and Logging
+6. Day-6: Network Troubleshooting, Network config, Dns
+7. Day-7: Linux System Administration Basics
+
+```
+
 
