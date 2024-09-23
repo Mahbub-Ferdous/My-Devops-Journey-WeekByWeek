@@ -110,7 +110,41 @@ $ mv file1 file2 /files
 $ rm fileName
 $ rmdir dirName
 $ rm -r dirName
+$ rm *.text 
 
 ```
+22. know any commands manual(man):
+```
+$ man mkdir
+
+```
+23. find some file(find):
+```
+$ find /home -name fileName
+
+```
+24. see date and time:
+```
+$ date 
+$ time 
+
+```
+25. want to see my ssh key:
+```
+$ cat ~/.ssh/id_rsa.pub
+
+```
+26. to show a short description about your desire command(whatis):
+```
+$ whatis cat
+
+```
+27. for exit from terminal(exit):
+```
+$ exit 
+$ logout
+
+```
+
 
 
