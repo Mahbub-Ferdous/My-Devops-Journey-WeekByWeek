@@ -145,6 +145,16 @@ $ exit
 $ logout
 
 ```
+28. locate a program file from Users file using which command:
+```
+$ which bash 
+
+```
+29. who is in the system to check by using whoami command:
+```
+$ whoami
+
+```
 
 
 
