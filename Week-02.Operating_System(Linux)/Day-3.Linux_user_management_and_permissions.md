@@ -76,3 +76,34 @@ $ sudo chmod userName:groupName fileName     [it will change both user & group o
 $ passwd
 
 ```
+13. to see our system name :
+```
+$ uname
+
+```
+15. to see our system name and details:
+```
+$ uname -a
+
+```
+16. add a user to a group :
+```
+$ sudo usermod -a -g groupName userName
+
+```
+17. remove a user from a group:
+```
+$ sudo deluser userName groupName
+
+```
+18. Shows information of all the users logged in:
+```
+$ finger
+
+```
+19. show information of a particular user:
+```
+$ finger userName
+
+```
+

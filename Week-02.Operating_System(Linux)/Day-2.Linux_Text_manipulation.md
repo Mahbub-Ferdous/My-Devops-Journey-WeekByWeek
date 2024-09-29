@@ -12,10 +12,14 @@ $ echo < my_file.txt > > my_File2.txt
 ```
 3. : environment variable by echo:
 ```
+$ echo $VARIABLE
 $ echo $USER
 $ echo $HOME
 $ env 
 $ echo $PATH
+$ VARIABLE_NAME = variable_value
+$ unset                           [remove a variable]
+$ export Variable = value         [set value of an environment variable]
 
 ```
 4. cut something from text cut command:
