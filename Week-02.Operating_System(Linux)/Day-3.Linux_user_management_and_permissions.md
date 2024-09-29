@@ -84,6 +84,7 @@ $ uname
 15. to see our system name and details:
 ```
 $ uname -a
+$ uname -r     [to check only version numaric ]
 
 ```
 16. add a user to a group :
