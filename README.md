@@ -53,6 +53,11 @@
 6. Day-6: Network Troubleshooting, Network config, Dns
 7. Day-7: Linux System Administration Basics
 
+#reference website:
+[Linux Command Cheatsheet](https://www.guru99.com/linux-commands-cheat-sheet.html)
+[Linux operating system A to Z](https://linuxjourney.com)
+[Linux System Administration Basics](https://www.linode.com/docs/guides/linux-system-administration-basics/)
+
 ```
 
 
