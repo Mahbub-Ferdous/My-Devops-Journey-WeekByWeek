@@ -44,7 +44,9 @@
 ### reference website: <br>
 1. [Computer Networking Full Course - video by Kunal Kushwaha](https://www.youtube.com/watch?v=IPvYjXCsTg8&list=PL9gnSGHSqcnoqBXdMwUTRod4Gi3eac2Ak&index=3)<br>
 2. [Learn Networking in 3 Hours | Networking Fundamentals + AWS VPC Networking](https://www.youtube.com/watch?v=iSOfkw_YyOU&list=PLdpzxOOAlwvKv4MFW35XRskZbQbrt6ep-&index=3)<br>
-3. [DevOps Prerequisites Course - Getting started with DevOps - video by freeCodeCamp.org](https://www.youtube.com/watch?v=Wvf0mBNGjXY&t=237s)
+3. [Operating System](https://www.youtube.com/playlist?list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O)<br>
+4. [Operating System Notes](https://github.com/Aniruddha-Tapas/Operating-Systems-Notes)<br>
+5. [DevOps Prerequisites Course - Getting started with DevOps - video by freeCodeCamp.org](https://www.youtube.com/watch?v=Wvf0mBNGjXY&t=237s)
 
 
 ### 2nd Week: Core concept of Operating System (Linux) and all command:-
