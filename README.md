@@ -41,6 +41,11 @@
     6. Public Subnet
     7. Private Subnet
 ```
+# reference website: <br>
+1. [Computer Networking Full Course - video by Kunal Kushwaha](https://www.youtube.com/watch?v=IPvYjXCsTg8&list=PL9gnSGHSqcnoqBXdMwUTRod4Gi3eac2Ak&index=3)<br>
+2. [Learn Networking in 3 Hours | Networking Fundamentals + AWS VPC Networking](https://www.youtube.com/watch?v=iSOfkw_YyOU&list=PLdpzxOOAlwvKv4MFW35XRskZbQbrt6ep-&index=3)<br>
+3. [DevOps Prerequisites Course - Getting started with DevOps - video by freeCodeCamp.org](https://www.youtube.com/watch?v=Wvf0mBNGjXY&t=237s)
+
 
 ### 2nd Week: Core concept of Operating System (Linux) and all command:-
 
@@ -54,9 +59,10 @@
 7. Day-7: Linux System Administration Basics
 
 ```
-#reference website:
-[Linux Command Cheatsheet](https://www.guru99.com/linux-commands-cheat-sheet.html)<br>
-[Linux operating system A to Z](https://linuxjourney.com)<br>
-[Linux System Administration Basics](https://www.linode.com/docs/guides/linux-system-administration-basics/)
+# reference website:<br>
+1. [Introduction to Linux & Terminal Commands - video by Kunal Kushwaha](https://www.youtube.com/watch?v=iwolPf6kN-k)
+2. [Linux Command Cheatsheet](https://www.guru99.com/linux-commands-cheat-sheet.html)<br>
+3. [Linux operating system A to Z](https://linuxjourney.com)<br>
+4. [Linux System Administration Basics](https://www.linode.com/docs/guides/linux-system-administration-basics/)
 
 
