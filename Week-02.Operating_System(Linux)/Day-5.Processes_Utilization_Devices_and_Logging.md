@@ -225,3 +225,8 @@ $ df -h         [ -h gives you a human readable file]
 $ free
 
 ```
+19. this for cpu and ram yoou can use :
+```
+$ nproc
+
+```
