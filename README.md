@@ -58,7 +58,7 @@
 4. Day-4: Server management, download, checkOS and services
 5. Day-5: Processes Utilization, Devices, and Logging
 6. Day-6: Network Troubleshooting, Network config, Dns
-7. Day-7: Linux System Administration Basics
+7. Day-7: Revision
 
 ```
 ### reference website:<br>
