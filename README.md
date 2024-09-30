@@ -55,8 +55,8 @@
 
 ```
 #reference website:
-[Linux Command Cheatsheet](https://www.guru99.com/linux-commands-cheat-sheet.html)
-[Linux operating system A to Z](https://linuxjourney.com)
+[Linux Command Cheatsheet](https://www.guru99.com/linux-commands-cheat-sheet.html)<br>
+[Linux operating system A to Z](https://linuxjourney.com)<br>
 [Linux System Administration Basics](https://www.linode.com/docs/guides/linux-system-administration-basics/)
 
 
