@@ -1,5 +1,5 @@
 ##### added shebang #####
-!# /bin/bash               
+#! /bin/bash               
 ### write our commands or scripts here:
 echo "hello world"
 echo "Enter your Name: "
