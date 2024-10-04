@@ -1,0 +1,14 @@
+# here is list 
+microservices : 
+  - name : user-authentication
+    port : 9001
+    version : 1.9
+    deployed : true
+  - name : payment-app
+    port : 9002
+    version : 1.8
+    deployed : false
+  - name : db-app
+    port : 9003
+    version : 1.8
+    deployed : true 

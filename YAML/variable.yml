@@ -1,0 +1,13 @@
+# there is all variable in YAML.
+
+#string
+app : user-authentication
+
+#integer 
+port : 8000
+
+#float
+version : 1.7
+
+#boolean
+deployed : true 
