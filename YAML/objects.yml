@@ -1,0 +1,7 @@
+# here is all objects YAML
+
+microservices : 
+  app : payment-app
+  port : 9001
+  version : 1.9
+  deployed : false
