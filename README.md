@@ -68,3 +68,27 @@
 4. [Linux System Administration Basics](https://www.linode.com/docs/guides/linux-system-administration-basics/)
 
 
+### 3rd week: Bash, Shell scripting and YAML:-
+
+```
+1. Day-1: Introduction to shell & shell variable
+2. Day-2: Arithmetic operator & shell input
+3. Day-3: shell condition if else 
+4. Day-4: shell loops - for, while
+5. Day-5: cronjobs with some custom scripts for network,process,memory and cpu
+6. Day-6: Shell Script Project - aws_resource_list_tracker.sh
+7. Day-7: YAML :- key-value, list, nested-list, objects, data-type
+
+```
+
+### reference website: For Shell Scripts <br>
+1. [10 Corporate Shell scripts from Devops Shack](https://www.youtube.com/watch?v=aK-lkJTfUEc&t=1017s)<br>
+2. [Shell Script playlist by Abhishek Veeramalla](https://www.youtube.com/playlist?list=PLdpzxOOAlwvIZ7u-gtpX_bozrspUbTQ1S)<br>
+
+### reference website: For YAML <br>
+3. [Complete YAML Course - Beginner to Advanced video by Kunal Kushwaha](https://www.youtube.com/watch?v=IA90BTozdow)<br>
+4. [YAML official website](https://yaml.org/spec/1.2.2/)<br>
+5. [Learn X in Y minutes where X = YAML](https://learnxinyminutes.com/docs/yaml/)<br>
+6. [From freecodecamp](https://www.freecodecamp.org/news/what-is-yaml-the-yml-file-format/)
+
+
